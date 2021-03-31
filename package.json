@@ -14,10 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/Peter-A-Felton/node-hello-world.git"
   },
-  "keywords": {
+  "keywords": [
     "nodejs",
     "heroku"
-  },
+  ],
   "author": "Peter Felton",
   "license": "MIT",
   "bugs": {
